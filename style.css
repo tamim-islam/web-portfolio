@@ -23,7 +23,7 @@ body{margin: 0px;
 width: 100%;
 }
 .top-banner{
-    border: 1px solid red;
+   
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
